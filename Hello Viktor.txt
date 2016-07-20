@@ -1,1 +1,2 @@
 print("Hello Viktor")
+print("Hello всем!!!")
